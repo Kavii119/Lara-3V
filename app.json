@@ -1,6 +1,6 @@
 {
   "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "description": "LARA-MD Whatsapp bot ©",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "XIxGAI5I#Kan0anzbrtZQJarAxGjNkKLs8zNB_xlFB7OOLUfLAXM",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "94786130427"
     },
 
     "DEV": {
@@ -76,13 +76,13 @@
     "AUTO_BIO": {
       "description": "Make it true if you want bot auto bio",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "AUTO_TYPING": {
@@ -94,7 +94,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
       "CUSTOM_REACT": {
@@ -136,7 +136,7 @@
     "ANTI_DELETE": {
       "description": "Delete massages show",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "INBOX_BLOCK": {
